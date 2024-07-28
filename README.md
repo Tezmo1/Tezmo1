@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm Josh, I'm a programmer / learning systems administrator who wants to invest in a career in software engineering.
+Feel free to contact me at josh@josh.it.com
 <!--
 **Tezmo1/Tezmo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
